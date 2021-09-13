@@ -1,0 +1,8 @@
+las listas son mutables que tambien podemos llamar
+listas a los arreglos dentro de python y pueden
+guardar distintos tipos de datos como numeros
+y texto.
+
+las tuplas son un tipo de dato inmutable, lo que 
+quiere decir que no se pueden modificar una vez que
+han sido definidos con ningun metodo 
